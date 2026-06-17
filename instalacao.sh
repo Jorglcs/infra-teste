@@ -1,4 +1,4 @@
-```bash
+
 #!/bin/bash
 
 REPO_APP="https://github.com/Jorglcs/app.git"
@@ -44,4 +44,4 @@ cd "$PROJECT_DIR"
 git clone "$REPO_APP"
 
 echo "Concluido."
-```
+
